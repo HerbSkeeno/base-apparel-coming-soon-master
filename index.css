@@ -40,13 +40,13 @@ body{
   min-height: 100vh;
 }
 
-.container .desktop{
+.desktop{
   width: 40%;
   min-height: 100vh;
   float: right;
 
 }
-.container .desktop img{
+.desktop img{
   display: block;
   width: 100%;
   min-height: 100vh;
